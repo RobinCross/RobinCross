@@ -3,13 +3,13 @@
 </div>  
   
 
-### <div align="center">I'm Robin, a biomedical engineer turned Data Scientist 👨‍💻 </div>  
+### <div align="center">I'm Robin, a Design Engineer turned Data Scientist 👨‍💻 </div>  
   
 
 - 🔭 I’m currently working on Bloomtech's Data Science Course.  
   
 
-- 🌱 I’m currently learning Python and SQL  
+- 🌱 I’m currently learning Bioinformatics / Azure Databricks 
   
 
 - ⚡ Fun fact: The name Orangutan means "People of the Forest"  
@@ -47,7 +47,7 @@
 <a href="https://github.com/RobinCross" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/robin-cross-209705a3" target="_blank">
+<a href="https://www.linkedin.com/in/robinccross/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
